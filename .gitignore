@@ -13,3 +13,13 @@ yarn-error.log
 
 # Project exclude paths
 /public/Admin/node_modules/
+public/Templates/modist/.DS_Store
+public/Templates/modist/css/.DS_Store
+public/Templates/modist/css/bootstrap/.DS_Store
+public/Templates/modist/css/css/.DS_Store
+public/Templates/modist/fonts/.DS_Store
+public/Templates/modist/fonts/flaticon/.DS_Store
+public/Templates/modist/fonts/ionicons/fonts/.DS_Store
+public/Templates/modist/images/.DS_Store
+public/Templates/modist/js/.DS_Store
+public/Templates/modist/scss/.DS_Store
